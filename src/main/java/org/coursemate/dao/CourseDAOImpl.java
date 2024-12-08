@@ -3,7 +3,6 @@ package org.coursemate.dao;
 
 
 import org.coursemate.config.DatabaseConfig;
-import org.coursemate.dao.CourseDAO;
 import org.coursemate.exceptions.CourseNotFoundException;
 import org.coursemate.model.Course;
 

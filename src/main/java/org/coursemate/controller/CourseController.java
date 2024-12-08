@@ -48,5 +48,3 @@ public class CourseController {
     }
 
 
-    // Other CRUD methods
-
